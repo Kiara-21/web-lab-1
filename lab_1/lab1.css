@@ -1,0 +1,53 @@
+body {
+    background: url(back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:  white;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.head-content {
+    width: 1240px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pic {
+    text-align: center;
+    font-size: 17px;
+}
+
+.image {
+    box-shadow: 0 2px 4px rgb(248, 248, 248);
+}
+
+.preview-content {
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 370px;
+    height: 300px;   
+}
+
+.content {
+    width: 1260px;
+}
+
+.books {
+    width: 1260px;
+    text-align: center;
+}
+
+.annotation {
+    font-style: italic;
+    font-size: 15px;
+}
+
+.nextbooks {
+    width: 855px;
+    text-align: center;
+}
